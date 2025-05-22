@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["TinyRTC.py", "github:mcauser/Micropython_TinyRTC/TinyRTC.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
